@@ -1,2 +1,2 @@
-![Project Screenshot](assets/temperature-hot.png)
-![Project Screenshot](assets/temperature-cold.png)
+![Project Screenshot](temperature-hot.png)
+![Project Screenshot](temperature-cold.png)
